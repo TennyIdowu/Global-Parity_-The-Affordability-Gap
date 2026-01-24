@@ -33,5 +33,5 @@ The Purchasing Power Crisis: Data reveals a critical disparity in Nigeria, where
 - Baseline Metric: New York City (Index = 1.0). All global purchasing power and cost of living data are relative to this benchmark.
 - Economic Framework: Analyzed 121 nations focusing on the Purchasing Power Parity (PPP) gap between how much money people have and what it actually buys them locally.
 
-![dashboard](Global Economic Dataset Image.png)
+![dataset](Global Economic Dataset Image.png)
 
