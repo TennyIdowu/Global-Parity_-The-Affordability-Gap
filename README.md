@@ -33,5 +33,16 @@ The Purchasing Power Crisis: Data reveals a critical disparity in Nigeria, where
 - Baseline Metric: New York City (Index = 1.0). All global purchasing power and cost of living data are relative to this benchmark.
 - Economic Framework: Analyzed 121 nations focusing on the Purchasing Power Parity (PPP) gap between how much money people have and what it actually buys them locally.
 
-![dataset](Dataset Image.png)
+![dataset](dataset Image.png)
+
+## Recommendation
+- Implement a "Local Parity" pay scale for employees in countries with a Purchasing Power Index below 20 (e.g., Nigeria)
+- Focus remote hiring efforts in "Surplus" regions like India, where the high Affordability Ratio (6.03) provides "High Economic Leverage" for the company.
+- Introduce a floating "Inflation Stipend" for regions identified in the "Critical Zone" (e.g., Syria, Cameroon).
+- Integrate an automated API feed to update the "Global Affordability Index" quarterly.
+
+
+## Links
+[Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTk3ZGE3YjctMmJmMi00MDE3LWFmZTEtNThlYTY2ZjNjODRkIiwidCI6IjllMDVmZmZjLTRiODctNGE3NS1hZDU3LWIyYjE4OWNiOTlhYiJ9)
+
 
