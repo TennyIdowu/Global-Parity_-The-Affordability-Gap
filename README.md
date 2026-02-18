@@ -43,6 +43,5 @@ The Purchasing Power Crisis: Data reveals a critical disparity in Nigeria, where
 
 
 ## Links
-[Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTk3ZGE3YjctMmJmMi00MDE3LWFmZTEtNThlYTY2ZjNjODRkIiwidCI6IjllMDVmZmZjLTRiODctNGE3NS1hZDU3LWIyYjE4OWNiOTlhYiJ9)
-
+[Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMWY2MDcyZjUtZDFlYS00MmEzLTg2NDEtNWUwNjQzMTI3NjNkIiwidCI6IjllMDVmZmZjLTRiODctNGE3NS1hZDU3LWIyYjE4OWNiOTlhYiJ9)
 
