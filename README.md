@@ -1,7 +1,7 @@
 # Global-Parity: The-Affordability-Gap
 ## Global Parity: Navigating Wealth, Cost, and Purchasing Parity in a Fractured Economy
 
-![dashboard](E.G.P Dashboard Image.png)
+![dashboard](E.G.PDashboard_Image.png)
 
 ## Project Overview:
 ### Global Parity: 
